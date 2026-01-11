@@ -1,0 +1,1 @@
+// Fixed linting errors\nlet missingSemi = 'no semicolon';\nlet wrongQuotes = 'double quotes instead of single';
